@@ -1,0 +1,31 @@
+Automation testing scope:
+
+[A]	Functionality Testing: Verify that all website features and functions work as expected.
+	This includes testing login and registration processes, searching for products, adding items to the cart, and checking out.
+	
+[B]	Navigation Testing: Ensure that users can easily navigate through different sections of the website, 
+	such as product categories, individual product pages, and the shopping cart.
+	
+[C]	User Interface Testing: Validate the appearance and layout of the website across different browsers and devices.
+	Ensure that the UI elements are properly displayed, and there are no visual glitches or alignment issues.
+	
+[D]	Cross-Browser and Cross-Platform Testing: Test the website's compatibility and functionality across various browsers 
+	like Chrome, Firefox, Safari, and Internet Explorer. 
+	Additionally, consider testing on different operating systems, such as Windows, macOS, and mobile platforms (Android and iOS).
+	
+[E]	Performance Testing: Evaluate the website's responsiveness and load times under different user loads. 
+	Measure the site's performance metrics and identify any bottlenecks that may affect the user experience.
+	
+	
+[F]	Error Handling: Verify that appropriate error messages are displayed when users encounter issues, such as incorrect login credentials or unavailable pages. 
+	Validate the behavior of the website when invalid inputs are provided.
+	
+[G]	Integration Testing: If the website interacts with external services or APIs, design tests to ensure proper 
+	communication and data exchange between the website and those components.
+	
+[H]	Regression Testing: As new features or changes are implemented, ensure that existing functionality remains unaffected. 
+	Automate regression tests to quickly verify that previously tested features still work as expected.
+	
+[I]	Reporting: Generate comprehensive reports with test results, including detailed logs, screenshots, 
+	and any identified issues. These reports can aid in communication with stakeholders and provide a 
+	record of the testing process.
